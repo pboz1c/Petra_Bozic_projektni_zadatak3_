@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:#34241D;
+	font-family:aladin;
+	font-size: 20px;
+	line-height: 20px;
+	width: 600px;
+	padding: 20px;
+}
+.paragraf_2 {
+	color:#34241D;
+	background-color:#4a6741;
+ 
+}
+.novi_blok{
+	background-color:#4a6741;
+	padding: 20px;
+	margin: 10;
+	width: 30%;
+}
+h1 {font-family: PetraBozic; 
+	color:#FFFDD0;
+	font-size: 80px;
+} 
+h2 {font-family: "Lucida Console", "Courier New", monospace;
+	color:#FFFDD0;
+	font-size: 27px;
+}
+
+.navibar ul{
+	list-style-type: none;
+	text-align: center;
+	padding: 20px;
+	margin: 300px;
+	width: 400px;
+}
+
+.navibar a{
+	background-color:523B35;
+	color:white;
+}
+.navibar li{
+	float:left;
+}
+.navibar1 ul{
+	list-style-type: none;
+	text-align: center;
+	padding: 40px;
+	margin: 20px;
+	width: 400px;
+}
+.navibar1 a{
+	background-color:lightgray;
+	color:black;
+}
+.navibar1 li{
+	float: left;
+}
+
+.pozadina{ 
+	background-image:url("slike1/04.jpg");
+}
+.drugapozadina{
+	background-image: url("slike1/04.jpg"); 
+}
+.drugapozadina ol{
+	list-style-type: circle;
+}
+.drugapozadina h1,h2{
+	font-family: 'LUNAR', sans-serif;
+	color:#FFFDD0;
+	background-color:none;
+}
+
+.ja{
+	background-image:url("slike1/04.jpg")
+}
+.ja p{
+	color: #F8F2E5;
+	font-family: 'LUNAR', sans-serif;
+	background-color: #4a6741;
+	
+}
+.ja h1{
+	font-family: 'LUNAR', sans-serif;
+	color: #FFFDD0;
+}
+
+.videopoz {
+	background-color: #CBC3E3;
+}
+.videopoz h1,p{
+	font-family:'TheGoodMonolith', sans-serif;;
+	color: #4169e1;
+}
+a:link {
+	color: black;
+	background-color: #715f4d;
+	padding: 17px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+
+img {
+	height: 400px;
+}
+
